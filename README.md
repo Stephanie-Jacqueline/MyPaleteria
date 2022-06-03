@@ -1,0 +1,2 @@
+# MyPaleteria
+Proyecto paleteria
